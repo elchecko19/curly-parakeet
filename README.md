@@ -1,2 +1,1 @@
-# curly-parakeet
-Integración gemini en termux projext
+gemini en termux project
